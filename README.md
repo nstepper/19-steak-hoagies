@@ -26,7 +26,9 @@ A Progressive Web Application (PWA) text editor that allows users to create and 
 
 ## Demo
 
-[Live Demo](https://your-app-url.com)
+[Live Demo](https://secret-basin-57720-fd9bafa4ddc4.herokuapp.com/)
+
+ https://git.heroku.com/secret-basin-57720.git
 
 ## Screenshots
 
