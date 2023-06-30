@@ -61,10 +61,13 @@ _Example screenshot showing the text editor interface._
     When online, the document will be automatically synchronized with the remote server.
     The application can be installed as a Progressive Web Application (PWA) for easy access from the home screen.
 
+## Demo 
+
+![Alt Text](./19-SteakHogies.gif)
+
 ## Deployment
 
-Deploy the application to a hosting platform of your choice, such as Heroku, Netlify, or Vercel. Ensure that the necessary build scripts are configured for a production deployment.
-Contributing
+couldnt deploy Heroku Link
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 ## License
