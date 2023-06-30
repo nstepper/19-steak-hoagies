@@ -24,9 +24,9 @@ A Progressive Web Application (PWA) text editor that allows users to create and 
 - Caching of static assets for improved performance
 - Responsive design for mobile and desktop devices
 
-## Demo
+## Demo 
 
-[Live Demo](https://your-app-url.com)
+![Alt Text](./19-SteakHogies.gif)
 
 ## Screenshots
 
@@ -61,8 +61,11 @@ _Example screenshot showing the text editor interface._
 
 ## Deployment
 
-Deploy the application to a hosting platform of your choice, such as Heroku, Netlify, or Vercel. Ensure that the necessary build scripts are configured for a production deployment.
-Contributing
+[Live Demo](https://secret-basin-57720-fd9bafa4ddc4.herokuapp.com/)
+
+ https://git.heroku.com/secret-basin-57720.git
+
+couldnt deploy Heroku Link
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 ## License
