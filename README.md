@@ -24,11 +24,9 @@ A Progressive Web Application (PWA) text editor that allows users to create and 
 - Caching of static assets for improved performance
 - Responsive design for mobile and desktop devices
 
-## Demo
+## Demo 
 
-[Live Demo](https://secret-basin-57720-fd9bafa4ddc4.herokuapp.com/)
-
- https://git.heroku.com/secret-basin-57720.git
+![Alt Text](./19-SteakHogies.gif)
 
 ## Screenshots
 
@@ -61,11 +59,11 @@ _Example screenshot showing the text editor interface._
     When online, the document will be automatically synchronized with the remote server.
     The application can be installed as a Progressive Web Application (PWA) for easy access from the home screen.
 
-## Demo 
-
-![Alt Text](./19-SteakHogies.gif)
-
 ## Deployment
+
+[Live Demo](https://secret-basin-57720-fd9bafa4ddc4.herokuapp.com/)
+
+ https://git.heroku.com/secret-basin-57720.git
 
 couldnt deploy Heroku Link
 
